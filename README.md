@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="300" src="./screenshots/neongridstudioslogo.png#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="200" src="./screenshots/neongridstudioslogo.png#gh-dark-mode-only"/></p>
 
 # Cyber-Yaga Vindicta
 **Team Members:** Clive Yong, Parsa Saeedi, Jeff Kim, Matias Chomali, Mana Longhenry
