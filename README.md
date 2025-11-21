@@ -1,8 +1,9 @@
 <p align="center"><img align="center" width="300" src="./screenshots/neongridstudioslogo.png#gh-dark-mode-only"/></p>
-<p align="center"><img src="{https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white}" a="{https://www.youtube.com/watch?v=2dHCGQTERTA}"/>
 
 # Cyber-Yaga Vindicta
 **Team Members:** Clive Yong, Parsa Saeedi, Jeff Kim, Matias Chomali, Mana Longhenry
+
+[![large-filled-youtube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg)](https://www.youtube.com/watch?v=2dHCGQTERTA)
 
 A fast-paced, top-down 2.5D sci-fi shooter built in C++ with custom-built ECS architecture, dynamic lighting, smart enemy AI and immersive audio-visual design to deliver a fast tactical and action-packed gameplay experience.
 
